@@ -1,0 +1,31 @@
+{
+    "name": "assistant-metrics-dashboard",
+    "version": "1.0.0",
+    "description": "Full-stack Assistant Metrics Dashboard with NestJS and React",
+    "scripts": {
+        "install:all": "npm run install:backend && npm run install:frontend",
+        "install:backend": "cd backend && npm install",
+        "install:frontend": "cd frontend && npm install",
+        "dev:backend": "cd backend && npm run start:dev",
+        "dev:frontend": "cd frontend && npm start",
+        "build:backend": "cd backend && npm run build",
+        "build:frontend": "cd frontend && npm run build",
+        "prisma:generate": "cd backend && npx prisma generate",
+        "prisma:migrate": "cd backend && npx prisma migrate dev",
+        "prisma:seed": "cd backend && npm run prisma:seed",
+        "docker:up": "docker-compose up -d",
+        "docker:down": "docker-compose down",
+        "docker:logs": "docker-compose logs -f"
+    },
+    "keywords": [
+        "nestjs",
+        "react",
+        "typescript",
+        "prisma",
+        "timescaledb",
+        "metrics",
+        "dashboard"
+    ],
+    "author": "Assistant Metrics Team",
+    "license": "MIT"
+}

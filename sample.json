@@ -1,0 +1,927 @@
+{
+    "updateAll": true,
+    "metrics": [
+        {
+            "name": "LLM, STT, TTS, VAPI Costs",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "sumCostBreakdownLlm": 0,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 0.35829999999999995
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0.2863,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 18.759300000000007
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0.0822,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 1.3599
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0.48520000000000013,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 6.7786
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0.43870000000000015,
+                    "sumCostBreakdownStt": 0.0466,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 7.252100000000001
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 0.3835
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0.0075,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 3.4389000000000003
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 1.4198000000000002
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0,
+                    "sumCostBreakdownVapi": 1.4903
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCostBreakdownLlm": 0,
+                    "sumCostBreakdownStt": 0,
+                    "sumCostBreakdownTts": 0.2357,
+                    "sumCostBreakdownVapi": 0.34989999999999993
+                }
+            ]
+        },
+        {
+            "name": "Total Call Duration",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "sumDuration": 7.166716667016347
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 375.1785166621207
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 27.196566665172572
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 135.5633666753769
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 145.03218333323798
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 7.669849999745686
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 68.76433332363763
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 28.394149994850157
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 29.804916679859158
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 6.9976999998092655
+                }
+            ]
+        },
+        {
+            "name": "Average Call Cost",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.049683589743589725
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "avgCost": 0.18080000000000002
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.07528571428571429
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.08692584269662923
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.041415656565656565
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.1931
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.06207678571428571
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.13015454545454544
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.07540500000000001
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.19636666666666666
+                }
+            ]
+        },
+        {
+            "name": "Overall Average Call Cost",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgCost": 0.05605784810126576
+                },
+                {
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "avgCost": 0.18080000000000002
+                }
+            ]
+        },
+        {
+            "name": "Number of Calls by Type",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "type": "webCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "17"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "373"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "21"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "89"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "198"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "56"
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "11"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "20"
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "type": "outboundPhoneCall",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "3"
+                }
+            ]
+        },
+        {
+            "name": "Number of Failed Calls",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "customer-busy",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "44"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "assistant-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "45"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "customer-did-not-answer",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "160"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "pipeline-error-openai-429-rate-limit-reached",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "11"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "pipeline-error-openrouter-llm-failed",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "111"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "pipeline-error-openai-400-bad-request-validation-failed",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "6"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "silence-timed-out",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "endedReason": "call.in-progress.error-providerfault-outbound-sip-403-forbidden",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "10"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "endedReason": "customer-did-not-answer",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "20"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "endedReason": "customer-did-not-answer",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "80"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "endedReason": "assistant-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "8"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "customer-busy",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "22"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "exceeded-max-duration",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "54"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "assistant-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "16"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "customer-did-not-answer",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "103"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "endedReason": "silence-timed-out",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "endedReason": "assistant-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "exceeded-max-duration",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "20"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "silence-timed-out",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "customer-did-not-answer",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "26"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "assistant-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "endedReason": "customer-busy",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "5"
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "11"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "endedReason": "silence-timed-out",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "19"
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "endedReason": "customer-ended-call",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "3"
+                }
+            ]
+        },
+        {
+            "name": "Number of Calls by Assistant",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "390"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "21"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "89"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "198"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "56"
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "11"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "20"
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "3"
+                }
+            ]
+        },
+        {
+            "name": "Average Call Duration by Assistant",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 0.9619961965695403
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "avgDuration": 3.5833583335081736
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 1.295074603103456
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 1.5231838952289538
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 0.7324857744102928
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 3.834924999872843
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 1.2279345236363863
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 2.581286363168196
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 1.4902458339929578
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "avgDuration": 2.3325666666030886
+                }
+            ]
+        },
+        {
+            "name": "Total Minutes",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 375.1785166621207
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "sumDuration": 7.166716667016347
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 27.196566665172572
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 135.5633666753769
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 145.03218333323798
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 7.669849999745686
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 68.76433332363763
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 28.394149994850157
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 29.804916679859158
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumDuration": 6.9976999998092655
+                }
+            ]
+        },
+        {
+            "name": "Total Spent",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 19.376599999999993
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "sumCost": 0.36160000000000003
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 1.581
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 7.7364000000000015
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 8.2003
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 0.3862
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 3.4762999999999997
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 1.4316999999999998
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 1.5081000000000002
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "sumCost": 0.5891
+                }
+            ]
+        },
+        {
+            "name": "Success Evaluation",
+            "timeRange": {
+                "start": "2025-08-07T18:00:00.000Z",
+                "end": "2025-09-08T13:44:33.889Z",
+                "step": "day",
+                "timezone": "Asia/Dhaka"
+            },
+            "result": [
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "52"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "121"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "analysis.successEvaluation": "",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "217"
+                },
+                {
+                    "date": "2025-08-08T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "3cf2243c-344b-44b1-b585-1bb068bb0e9e",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "13"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "analysis.successEvaluation": "",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-09T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "7"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "21"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "analysis.successEvaluation": "",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-10T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "67"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "analysis.successEvaluation": "",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "129"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "53"
+                },
+                {
+                    "date": "2025-08-11T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "16"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-14T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "analysis.successEvaluation": "",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "31"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "8"
+                },
+                {
+                    "date": "2025-08-15T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "17"
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "8"
+                },
+                {
+                    "date": "2025-08-18T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "3"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "15"
+                },
+                {
+                    "date": "2025-08-19T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "5"
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "analysis.successEvaluation": "false",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "2"
+                },
+                {
+                    "date": "2025-08-24T06:00:00.000Z",
+                    "analysis.successEvaluation": "true",
+                    "assistantId": "891ac5af-583a-4ce9-8d29-3fee9cda1dd2",
+                    "countId": "1"
+                }
+            ]
+        }
+    ]
+}

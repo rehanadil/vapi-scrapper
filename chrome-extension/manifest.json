@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "Vapi Analytics Scraper",
+    "version": "1.0",
+    "permissions": [
+        "scripting",
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://dashboard.vapi.ai/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://dashboard.vapi.ai/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_start"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "inject.js"
+            ],
+            "matches": [
+                "https://dashboard.vapi.ai/*"
+            ]
+        }
+    ]
+}
