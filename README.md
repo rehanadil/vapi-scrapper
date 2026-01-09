@@ -2,7 +2,7 @@
 
 ## Description
 
-Build a full-stack web application where:
+A full-stack web application for tracking and analyzing AI assistant metrics with real-time analytics and interactive visualizations. Monitor call counts, costs, minutes, and performance trends across multiple AI assistants with powerful time-series analysis powered by TimescaleDB.
 
 -   Users can register and login.
 -   Users can create "Assistants" (LLM models).
@@ -17,13 +17,40 @@ Build a full-stack web application where:
 
 ## Tech Stack
 
--   Backend: Node.js, TypeScript, NestJS
--   ORM: Prisma
--   Database: PostgreSQL + TimescaleDB
--   Frontend: React (TypeScript)
--   Charts: Recharts or Chart.js
--   Authentication: JWT
--   Optional: WebSockets or Server-Sent Events for live updates
+### Backend
+- **Framework:** NestJS
+- **Language:** TypeScript
+- **Database:** PostgreSQL with TimescaleDB
+- **ORM:** Prisma
+- **Authentication:** JWT with Passport.js
+- **Password Hashing:** bcryptjs
+- **Validation:** class-validator, class-transformer
+- **API Documentation:** Swagger/OpenAPI
+- **Testing:** Jest
+
+### Frontend
+- **Framework:** React 18
+- **Language:** TypeScript
+- **State Management:** React Query
+- **Routing:** React Router v6
+- **UI Library:** Ant Design
+- **Styling:** Tailwind CSS
+- **Charts:** Recharts
+- **HTTP Client:** Axios
+- **Date Handling:** date-fns
+- **Icons:** Lucide React
+
+### DevOps & Tools
+- **Containerization:** Docker & Docker Compose
+- **Package Manager:** npm
+- **Code Quality:** ESLint, Prettier
+- **Version Control:** Git
+
+### Chrome Extension
+- **Manifest Version:** 3
+- **Content Scripts:** Automated data scraping
+- **Background Service:** Data processing and API sync
+- **Technologies:** Vanilla JavaScript
 
 ---
 
